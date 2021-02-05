@@ -1,5 +1,4 @@
-# cloth_image_classifier
-可用於辨識服飾顏色、種類的服飾圖片分類器
+# cloth_image_classifier, 可用於辨識服飾顏色、種類的服飾圖片分類器
 ===
 
 模型「顏色」標籤分為 12 類：
