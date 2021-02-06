@@ -3,11 +3,17 @@ cloth_image_classifier: 可用於辨識服飾顏色、種類的服飾圖片分�
 
 # Demo 三部曲 (待續)
 
-【第一集】服飾供應商分類整理小工具   https://youtu.be/qqHdvm4w6SU
+【第一集】服飾供應商分類整理小工具  
+ 
+ https://youtu.be/qqHdvm4w6SU
  ---
-【第二集】製備分類器の訓練資料集   https://youtu.be/gSDRWUBVYx0
+【第二集】製備分類器の訓練資料集   
+ 
+ https://youtu.be/gSDRWUBVYx0
  ---
-【第三集】服飾圖片分類器   https://youtu.be/Zh6_nICW6uo
+【第三集】服飾圖片分類器   
+ 
+ https://youtu.be/Zh6_nICW6uo
  ---
  
 # 模型取得
