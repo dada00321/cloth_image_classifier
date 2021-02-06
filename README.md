@@ -1,6 +1,17 @@
 cloth_image_classifier: 可用於辨識服飾顏色、種類的服飾圖片分類器
 ===
 
+# 模型取得
+ 若需取用訓練好的模型檔，可至雲端分享連結下載:
+
+ https://drive.google.com/drive/folders/1jICDYux79SSdCDWoDuyyAmHhe9Pef00l?usp=sharing
+ ---
+
+ 備註:
+
+ 目前不是所有 12 色 X 12 分類 都完成訓練，只能用來辨識 39 種 顏色x分類 的圖片
+ ---
+
 # 分類介紹
 
    模型「顏色」標籤分為 12 類(依冷、暖、中間色系歸納):
