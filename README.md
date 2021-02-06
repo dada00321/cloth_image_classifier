@@ -1,6 +1,15 @@
 cloth_image_classifier: 可用於辨識服飾顏色、種類的服飾圖片分類器
 ===
 
+# Demo 三部曲 (待續)
+
+【第一集】服飾供應商分類整理小工具 (demo影片) ([https://youtu.be/qqHdvm4w6SU])
+ ---
+【第二集】製備分類器の訓練資料集：Bing API 圖片批次下載 - demo影片 ([https://youtu.be/gSDRWUBVYx0])
+ ---
+【第三集】服飾圖片分類器 (demo 影片): ([https://youtu.be/Zh6_nICW6uo])
+ ---
+ 
 # 模型取得
  若需取用訓練好的模型檔，可至雲端分享連結下載:
 
