@@ -141,10 +141,7 @@ def clothing_image_search():
     args = vars(ap.parse_args())
     
     # 設定 Bing Search v7 API 的 API 呼叫資訊 (API key & endpoint API URL)
-    API_KEY = "be5ebf6cee0e41c4a818c5982c8aec27"
-    #"09f968b4c3a8468782bcd68cd7383bc9" //free
-    # a39a10aa41c84dcc8732e342c66ae8f5  // cost
-    # be5ebf6cee0e41c4a818c5982c8aec27  // fr
+    API_KEY = f"{api_key}"
 
     SEARCH_URL = "https://api.bing.microsoft.com/v7.0/images/search"
     MAX_RESULTS = 250  # 資料筆數上限
