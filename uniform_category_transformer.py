@@ -120,7 +120,7 @@ def _get_splitted_categories(raw_categories):
     splitted_set = set()
     for cat in raw_categories:
         cat = cat.replace("・","/").replace("&","/")
-        if True if spliter in cat else False:
+        if spliter in cat:
             #print(cat.replace("&","/").split("/"))
             [splitted_set.add(cat) for cat in cat.split("/")]
         else:
