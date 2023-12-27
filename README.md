@@ -19,7 +19,7 @@ cloth_image_classifier: 可用於辨識服飾顏色、種類的服飾圖片分�
 # 模型取得
  若需取用訓練好的模型檔，可至雲端分享連結下載:
 
-https://drive.google.com/drive/folders/1UTyjXnJ96UqnAHpvTzEhXhpWwwdYIX3U?usp=sharing
+https://drive.google.com/drive/folders/1QoWk-U0wZFLcupuALfdgMKSuzhUmyn9h?usp=sharing
  ---
 
  備註:
